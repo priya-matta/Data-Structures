@@ -8,7 +8,7 @@ import java.util.Scanner;
  * a postfix expression using the LIFO mechanism
  * of stack.
  * The stack is a char array for which basic stack
- * operations are defined. 
+ * operations are defined.. 
  * 
  * @author priya matta
  *
